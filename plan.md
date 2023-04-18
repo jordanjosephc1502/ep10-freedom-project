@@ -1,0 +1,2 @@
+-get all my context/part a/part b
+-start coding and adding my info 
