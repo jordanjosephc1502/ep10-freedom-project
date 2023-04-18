@@ -1,2 +1,2 @@
--get all my context/part a/part b
--start coding and adding my info 
+gather all my info
+start looking at my wireframe too see where imma put it
